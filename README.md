@@ -29,5 +29,5 @@ The workflow executes sequentially, simulating a team of specialized business co
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/forestboy1110/multi-state-business-planner.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/forestboy1110/multi-state-business-planner.git](https://github.com/forestboy1110/multi-state-business-planner.git)
 cd your-repo-name
